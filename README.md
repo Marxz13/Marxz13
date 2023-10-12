@@ -1,6 +1,6 @@
 <img height="300" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-Hi, I’m Marz!, a 21 years old dude from Malaysia whose very well interested in technologies, I'm pursuing Computer Science in Malaysia's university currently in Y2. The more i think about how rapid technologies are changin the world, its huge how there could/would thousands more of ideas that can be implemented. I'm happy to say that i'm looking to learn more to be specialized in front-end technologies. 
+Hi, I’m Marz!, a 21 years old dude from Malaysia whose very well interested in technologies, I'm pursuing Computer Science in Malaysia's university currently in Y2. The more i think about how rapid technologies are changin the world, its huge how there could/would thousands more of ideas that can be implemented. Looking forward to be a specialized front-end developer!
 <hr>
 
 **Front-end Techs** <img height="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
