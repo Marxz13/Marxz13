@@ -24,6 +24,7 @@ Hi, I’m Marz!, a 21 years old dude from Malaysia whose very well interested in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
+https://marzallan.netlify.app/
 
 <a href="https://www.linkedin.com/in/mar-zallan-mohd-ismail-ganesan-393b05270/"><img height="30" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>
 <a href="https://api.whatsapp.com/send/?phone=%2B601111433952&text&type=phone_number&app_absent=0"><img height="30" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"></a>
