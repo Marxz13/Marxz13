@@ -1,6 +1,6 @@
 <img height="300" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-Hi, I’m Marz!, a student from Malaysia! I'm currently progressing towards all techs below and more techs in the future. :D
+Hi, I’m Marz!, a student from Malaysia! Below are some of the techs that i'm currently learning and continuing to do so, more techs coming soon!
 <hr>
 
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
