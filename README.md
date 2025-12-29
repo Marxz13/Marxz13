@@ -12,7 +12,7 @@ A powerfull stack developer ?
 
 ### 🔗 Connect with me
 
-<a href="https://marzallan.netlify.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="https://marzallan.com/"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/marzallan"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send/?phone=%2B601111433952&text&type=phone_number&app_absent=0"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:marzallan13@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
